@@ -293,9 +293,6 @@ defaults:
       share: true
       related: true
 
-theme: jekyll-theme-minimal
-
-defaults:
   # _docs
   - scope:
       path: ""
@@ -303,3 +300,5 @@ defaults:
     values:
       sidebar:
         nav: "docs"
+theme: jekyll-theme-minimal
+
